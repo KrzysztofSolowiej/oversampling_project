@@ -7,4 +7,5 @@ In this project, we investigated different method of oversampling in context of 
 If you have any questions please feel free to contact:
 
 krzysztof.solowiej@umb.edu.pl
+
 adrian.godlewski@umb.edu.pl
